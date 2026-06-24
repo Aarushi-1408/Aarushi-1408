@@ -112,9 +112,10 @@ Quantum Information Theory
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarushi-1408&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarushi-1408&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aarushi-1408&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarushi-1408&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
@@ -199,10 +200,9 @@ Quantum Information Theory
 
 > Requires GitHub Action setup
 
-
-![snake gif](https://github.com/Aarushi-1408/Aarushi-1408/blob/output/github-contribution-grid-snake.svg)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aarushi-1408/Aarushi-1408/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 ---
 
 # 💭 Favorite Quote
@@ -222,7 +222,15 @@ Quantum Information Theory
 </a>
 
 <a href="https://linkedin.com/in/aarushi-prajapati-62446a377">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="center">
+  <a href="https://linkedin.com/in/aarushi-prajapati-62446a377">
+    <img src="https://img.shields.io/badge/LinkedIn-Aarushi%20Prajapati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:aarushiprajapati1357@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 </a>
 
 <a href="mailto:aarushiprajapati1357@gmail.com">
