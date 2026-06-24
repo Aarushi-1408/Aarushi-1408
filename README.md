@@ -199,9 +199,9 @@ Quantum Information Theory
 
 > Requires GitHub Action setup
 
-```markdown
+
 ![snake gif](https://github.com/Aarushi-1408/Aarushi-1408/blob/output/github-contribution-grid-snake.svg)
-```
+
 
 ---
 
